@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=600&lines=Hello+(๑╹ω╹๑);I'm+a+Junior+Web+Developer+👩🏻‍💻;" />
 </h1>
 
----
+
 
 ## 💻 Languages & Frameworks
 
@@ -27,7 +27,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakahina&layout=compact&theme=radical&hide_border=true&card_width=438" alt="Top Languages" />
 </p>
 
----
+
 
 ## 📫 Connect with Me
 
@@ -51,6 +51,6 @@
   </a>
 </p>
 
----
+
 
 
