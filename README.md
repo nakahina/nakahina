@@ -35,12 +35,12 @@
 
 <p>
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nakahina&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nakahina&show_icons=true&theme=tokyonight&hide_border=true&card_width=600" alt="GitHub Stats" />
   
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakahina&theme=tokyonight&hide_border=true&ring=FF8C00&fire=FF8C00&sideNums=FF8C00&card_width=400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakahina&theme=tokyonight&hide_border=true&ring=FF8C00&fire=FF8C00&sideNums=FF8C00&card_width=600" alt="GitHub Streak" />
     <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakahina&layout=compact&theme=radical&hide_border=true&card_width=438" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakahina&layout=compact&theme=radical&hide_border=true&card_width=600" alt="Top Languages" />
 </p>
 
 ## 📫 Connect with Me
