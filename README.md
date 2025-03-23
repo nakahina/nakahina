@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=600&lines=Hello+(๑╹ω╹๑);I'm+a+Junior+Web+Developer+👩🏻‍💻;&background=0000FF" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=600&lines=Hello+(๑╹ω╹๑);I'm+a+Junior+Web+Developer+👩🏻‍💻;" />
 </h1>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nakahina/nakahina/main/img/snake-dark.svg">
