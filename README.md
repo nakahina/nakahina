@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=600&lines=Hello+(๑╹ω╹๑);I'm+a+Junior+Web+Developer+👩🏻‍💻;" />
 </h1>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
 
 ## 💻 Languages & Frameworks
 
@@ -27,8 +31,6 @@
   </a>
 </p>
 
-
-
 ## 📊 GitHub Stats
 
 <p>
@@ -41,8 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakahina&layout=compact&theme=radical&hide_border=true&card_width=438" alt="Top Languages" />
 </p>
 
-
-
 ## 📫 Connect with Me
 
 <p>
@@ -50,7 +50,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="60" height="60"/>
   </a>
 </p>
-
-
-
-
