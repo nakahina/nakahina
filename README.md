@@ -45,14 +45,3 @@
     <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakahina&layout=compact&theme=radical&hide_border=true&card_width=600" alt="Top Languages" />
 </p>
-
-## 📫 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/hinako-nakamura-34aa82216" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
-  </a>
- <a href="https://x.com/hina_gon_81" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="50" height="50"/>
-</a>
-</p>
